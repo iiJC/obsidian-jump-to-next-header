@@ -1,0 +1,10 @@
+{
+	"id": "jump-to-next-header-plugin",
+	"name": "Jump to Next Header",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Jumps the cursor to the next or previous header!",
+	"author": "JC",
+	"authorUrl": "https://github.com/iiJC/",
+	"isDesktopOnly": false
+}
